@@ -1,0 +1,10 @@
+Author: Dakota Sadler
+
+Description:
+
+Allows a user to select a peptide or nucleotide sequence file in Fasta format. 
+Then allows a user to select a matrix of amino acid substitution scores in BLOSUM, PAM(n), or hydrophobicity
+
+Users then select the alignment (global, local or semiglobal), input the gap penalties.
+
+The script will then perform a protein alignment of the two acid sequences.
